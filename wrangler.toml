@@ -1,8 +1,0 @@
-name = "my-worker-project"
-type = "javascript"  # or "module" for ES modules, or "webpack"
-
-main = "src/index.js"  # Your main Worker script
-
-account_id = "your-cloudflare-account-id"
-workers_dev = true
-compatibility_date = "2024-05-01"
