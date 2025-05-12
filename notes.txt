@@ -1,0 +1,41 @@
+what is a (init)? 
+-> init is the utility will you through creating a package.jons file and more.
+
+(note about routing and url):
+
+url: 
+
+(https://) => this is (protocol)
+(example.com) => this is (domian)
+(/about) => path (the route)
+
+routing:
+
+Routing is the system or logic in your backend (like Node.js, Express) or frontend (like React, Angular) that decides what to do when a specific URL is visited.
+
+example:
+
+app.get("/about", (req, res) => {
+  res.send("This is the About Page");
+});
+
+
+how to deploy code to production level:
+
+step 1: get the server is paid or trial
+
+step 2: push code into github 
+
+step 3: configer github in server
+
+amazone cloud service free:
+
+email: infoyusuf100@gmail.com
+password: Yusuf@9168
+
+
+Cloudflare's Workers & Pages:
+
+email: yusufshaikh00071@gmail.com
+password: Yusuf@9168
+
