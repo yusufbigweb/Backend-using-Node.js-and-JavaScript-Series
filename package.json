@@ -2,9 +2,9 @@
   "name": "seekh-backend",
   "version": "1.0.0",
   "description": "basic app to deploy for first time using node",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
