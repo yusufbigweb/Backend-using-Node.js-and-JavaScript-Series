@@ -4,7 +4,7 @@ const app = express()
 const port = process.env.PORT || 3000 
 
 app.get('/', (req, res) => {
-  res.send('Successful deploy yusuf yaaa! ==> 💻➡️☁️✔️')
+  res.send('Successful deploy yusuf yaa! ==> 💻➡️☁️✔️')
 })
 
 app.get('/yusuf', (req, res)=>{
